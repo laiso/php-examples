@@ -13,5 +13,5 @@ Docker Environment:
 
 ```bash
 docker-compose up
-docker-compose exec web ping php artisan migrate
+docker-compose exec web php artisan migrate
 ```
